@@ -1,0 +1,12 @@
+CODIGO HOSPEDE: 1
+TOTAL: 7.000000
+
+
+CODIGO PRODUTO: 2
+PRODUTO: CHOCOLATE
+QUANTIDADE 1:
+TOTAL R$ 7.00
+
+ASSINATURA:_____________________________________________________________
+
+
